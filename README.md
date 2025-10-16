@@ -150,5 +150,3 @@ You can also pin versions in a `requirements.txt` if needed.
 ---
 
 
-
-If you like, I can generate a **README.md file** already filled with screenshots and architecture diagram placeholders (you can drop in images later). Do you want me to produce that now?
